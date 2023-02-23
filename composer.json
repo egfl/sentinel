@@ -52,10 +52,6 @@
         "sort-packages": true
     },
     "extra": {
-        "component": "package",
-        "branch-alias": {
-            "dev-master": "7.0.x-dev"
-        },
         "laravel": {
             "providers": [
                 "Cartalyst\\Sentinel\\Laravel\\SentinelServiceProvider"
